@@ -1,4 +1,4 @@
-# ntua-microelectronic-packaging
+# ntua-microelectronics-and-packaging
 
 Logarithmic Amplifier Project for the course Microelectronics&amp;Packaging
 
