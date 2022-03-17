@@ -2,7 +2,7 @@
 
 Logarithmic Amplifier Project for the course Microelectronics&amp;Packaging
 
-This project implemented for the course Microelectronics and Packaging at National Technical University of Athens.
+This project implemented for the course Microelectronics and Packaging at 7th semester in Electrical and Computer Engineering School of National Technical University of Athens.
 
 The circuit we have chosen for the simulations is known as a logarithmic amplifier voltage, as the output voltage which produces, it is proportional to its neper logarithmic input voltage.
 
