@@ -11,3 +11,5 @@ The tools that were used were: <br>
 - Eagle for the design of PCB of the circuit <br>
 - Fusion360 for the design of Heatsinks for the bjt (2n2222) and for the opamp (lm741) <br>
 - Simscale for the simulations <br>
+
+
