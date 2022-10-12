@@ -30,7 +30,7 @@ Below are the designs:
 <img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp1.png" width = "400">
 
 * 2nd Heatsink
-<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp2.png" width = "400">
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinopamp2.png" width = "400">
 
 * 3rd Heatsink
 <img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp3.png" width = "400">
