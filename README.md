@@ -29,15 +29,18 @@ Below are the designs:
 
 #### opamp lm741
 * 1st Heatsink
-
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp1.png" width = "400">
 * 2nd Heatsink
-
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp2.png" width = "400">
 * 3rd Heatsink
-
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp3.png" width = "400">
 * 4rth Heatsink
-
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/heatsinkopamp4.png" width = "400">
 #### bjt 2n2222
-
+* 1st Heatsink
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/hbjt1.png" width = "400">
+* 2nd Heatsink
+<img src="https://github.com/stefaniaskorda/LogarithmicAmplifierVoltage_Design-Simulating/blob/main/hbjt2.png" width = "400">
 ## 5.Thermal Analysis
 
 ## 6. Conclusion
