@@ -2,7 +2,7 @@
 
 Logarithmic Amplifier Project for the course Microelectronics&amp;Packaging
 
-This project implemented for the course Microelectronics and Packaging at 7th semester in Electrical and Computer Engineering School of National Technical University of Athens.
+This project implemented for the course Microelectronics and Packaging at 7th semester in Electrical and Computer Engineering School of National Technical University of Athens and was graded 10/10.
 
 ## 0.Context: The circuit we have chosen is known as a logarithmic amplifier voltage, as the output voltage which produces, it is proportional to its neper logarithmic input voltage.
 the circuit consists of a voltage source, a resistor, an opamp and a bjt transistor. In particular, we chose as an opamp the LM714, npn: 2N2222 and R=10KΩ. The schematic is shown below:
